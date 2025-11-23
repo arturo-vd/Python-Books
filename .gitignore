@@ -19,6 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
 
 # Virtual Environment
 venv/
@@ -27,33 +28,64 @@ ENV/
 env.bak/
 venv.bak/
 
-# IDE
+# IDEs
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 .DS_Store
+*.sublime-project
+*.sublime-workspace
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb_checkpoints/
 
 # Environment variables
 .env
 .env.local
+.env.*.local
 
 # Database
 *.db
 *.sqlite3
+*.sql
 
 # Logs
 *.log
+logs/
+*.log.*
 
 # OS
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# Large files (adjust as needed)
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Large files (uncomment if you want to ignore large media files)
 # *.pdf
-# *.mp4
-# *.zip
+*.mp4
+*.avi
+*.zip
+*.tar.gz
+
+# Compiled files
+*.exe
+*.out
+*.class
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp

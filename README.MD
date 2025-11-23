@@ -2,9 +2,9 @@
 
 > **The Ultimate Learning Hub**: Master Frontend, Backend, Mobile, DevOps, Data Science, AI/ML, and everything in between. Your one-stop repository for becoming a complete tech professional.
 
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<!-- [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/fullstack-roadmap?style=social)](https://github.com/yourusername/fullstack-roadmap)
+[![Stars](https://img.shields.io/github/stars/yourusername/fullstack-roadmap?style=social)](https://github.com/yourusername/fullstack-roadmap) -->
 
 ---
 
